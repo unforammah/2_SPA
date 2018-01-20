@@ -1,0 +1,10 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "One Dark Pro",
+    "prettier.singleQuote": true,
+    "material-icon-theme.folders.color": "#26a69a",
+    "editor.fontFamily": "'Fira Mono', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "tslint.autoFixOnSave": true
+}
